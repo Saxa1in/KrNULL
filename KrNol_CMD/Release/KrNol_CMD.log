@@ -1,0 +1,12 @@
+﻿  Main.cpp
+C:\Users\atosy\source\repos\KrNol_CMD\KrNol_CMD\Main.cpp(810,10): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\atosy\source\repos\KrNol_CMD\KrNol_CMD\Main.cpp(899,10): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\atosy\source\repos\KrNol_CMD\KrNol_CMD\Main.cpp(1014,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\atosy\source\repos\KrNol_CMD\KrNol_CMD\Main.cpp(1053,11): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\atosy\source\repos\KrNol_CMD\KrNol_CMD\Main.cpp(1088,11): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\atosy\source\repos\KrNol_CMD\KrNol_CMD\Main.cpp(1107): warning C4715: ai: значение возвращается не при всех путях выполнения
+  All 79 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  KrNol_CMD.vcxproj -> C:\Users\atosy\source\repos\KrNol_CMD\Release\KrNol_CMD.exe

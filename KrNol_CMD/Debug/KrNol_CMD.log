@@ -1,0 +1,8 @@
+﻿  Main.cpp
+C:\Users\atosy\source\repos\KrNol_CMD\KrNol_CMD\Main.cpp(810,10): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\atosy\source\repos\KrNol_CMD\KrNol_CMD\Main.cpp(899,10): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\atosy\source\repos\KrNol_CMD\KrNol_CMD\Main.cpp(1014,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\atosy\source\repos\KrNol_CMD\KrNol_CMD\Main.cpp(1053,11): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\atosy\source\repos\KrNol_CMD\KrNol_CMD\Main.cpp(1088,11): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\atosy\source\repos\KrNol_CMD\KrNol_CMD\Main.cpp(1107): warning C4715:  ai: значение возвращается не при всех путях выполнения
+  KrNol_CMD.vcxproj -> C:\Users\atosy\source\repos\KrNol_CMD\Debug\KrNol_CMD.exe
